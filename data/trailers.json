@@ -1,0 +1,104 @@
+{
+  "trailers": [
+    {
+      "year": "2024",
+      "title": "LEVI STRAUSS und der Stoff der Träume",
+      "vimeoId": "1035582386",
+      "thumbnail": "LEVI_STRAUSS_225x127.jpg",
+      "type": "TV Mini Series ARD Degeto",
+      "director": "Neele Vollmar",
+      "producer": "Lieblingsfilm/ Viola Film",
+      "format": "2K 2:1"
+    },
+    {
+      "year": "2023",
+      "title": "IRGENDWANN WERDEN WIR UNS ALLES ERZÄHLEN",
+      "vimeoId": "798691530",
+      "thumbnail": "IRGENDWANN_Homepage_Still_225_127.jpg",
+      "type": "feature fiction",
+      "director": "Emily Atef",
+      "producer": "ROW Pictures",
+      "format": "2K 2.39:1"
+    },
+    {
+      "year": "2021",
+      "title": "37 SEKUNDEN",
+      "vimeoId": "1050134952",
+      "thumbnail": "37_Sekunden.jpg",
+      "type": "TV Mini Series ARD Degeto",
+      "director": "Bettina Oberli",
+      "producer": "Odeon Fiction",
+      "format": "2K 2:1"
+    },
+    {
+      "year": "2020",
+      "title": "DRII WINTER / A PIECE OF SKY",
+      "vimeoId": "685125713",
+      "thumbnail": "DRII_Winter_Berlinale_225_127--8.jpg",
+      "type": "feature fiction",
+      "director": "Michael Koch",
+      "producer": "Hugofilm / Pandora Film",
+      "format": "2K 1.37:1"
+    },
+    {
+      "year": "2017",
+      "title": "SARAH PLAYS A WEREWOLF",
+      "vimeoId": "234156558",
+      "thumbnail": "SARAH_225_127_white.jpg",
+      "type": "feature fiction",
+      "director": "Katharina Wyss",
+      "producer": "Intermezzo Films, Mnemosyn Films",
+      "format": "2K 1.37:1"
+    },
+    {
+      "year": "2014",
+      "title": "SIVAS",
+      "vimeoId": "212366926",
+      "thumbnail": "SIVAS_Title_225_127.jpg",
+      "type": "feature fiction",
+      "director": "Kaan Müjdeci",
+      "producer": "Kaan Film",
+      "format": "2K 2.39:1"
+    },
+    {
+      "year": "2013",
+      "title": "WHITE SHADOW",
+      "vimeoId": "234396467",
+      "thumbnail": "WHITESHADOW_Title_225_127.jpg",
+      "type": "feature fiction",
+      "director": "Noaz Deshe",
+      "producer": "Asmara Films/Shadoworks/French Exit",
+      "format": "HD 1.85:1"
+    },
+    {
+      "year": "2012",
+      "title": "PETTING ZOO",
+      "vimeoId": "43183214",
+      "thumbnail": "Petting_Zoo_225_127.jpg",
+      "type": "feature fiction",
+      "director": "Johan Carlsen",
+      "producer": "THE MATCH FACTORY, Makrorama, dffb, Haos Film",
+      "format": "2K 2.39:1"
+    },
+    {
+      "year": "2012",
+      "title": "ALLEINE TANZEN",
+      "vimeoId": "60665454",
+      "thumbnail": "ALLEINE_TANZEN_225_127_title.jpg",
+      "type": "feature documentary",
+      "director": "Biene Pilavci",
+      "producer": "Telekult/dffb",
+      "format": "HD 1.85:1"
+    },
+    {
+      "year": "2012",
+      "title": "LIGHTER THAN ORANGE",
+      "vimeoId": "77771636",
+      "thumbnail": "Lighter_than_Orange_225_127_title.jpg",
+      "type": "feature documentary",
+      "director": "Matthias Leupold",
+      "producer": "Asienbrücke/btk",
+      "format": "HD 16:9"
+    }
+  ]
+}

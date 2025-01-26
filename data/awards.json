@@ -1,0 +1,43 @@
+{
+  "awards": [
+    {
+      "year": "2023",
+      "title": "SWISS FILM AWARD for DRII WINTER",
+      "category": "Best Fiction Film"
+    },
+    {
+      "year": "2014",
+      "title": "SPECIAL JURY PRIZE for SIVAS",
+      "category": "71st VENICE FILM FESTIVAL",
+      "url": "http://www.labiennale.org/en/cinema/news/06-09b.html"
+    },
+    {
+      "year": "2013",
+      "title": "LION OF THE FUTURE for WHITE SHADOW",
+      "category": "Luigi De Laurentiis AWARD for BEST DEBUT FILM at 70th VENICE FILM FESTVAL",
+      "url": "http://www.sicvenezia.it/2249/edizione-2013/news-2013/leone-del-futuro-a-white-shadow/?lang=en"
+    },
+    {
+      "year": "2013",
+      "title": "NEW BERLIN FILM AWARD",
+      "category": "Best feature documentary ALLEINE TANZEN",
+      "url": "http://achtungberlin.de/fileadmin/achtungberlin/bilder/2013/UEbersicht_Gewinner_ab2013_mit_Laudatio.pdf"
+    },
+    {
+      "year": "2012",
+      "title": "NEW BERLIN FILM AWARD",
+      "category": "Best mid-length featurefilm HEADLOCK"
+    },
+    {
+      "year": "2009",
+      "title": "BEST CAMERA - SCHWESTER INES",
+      "category": "38th Int. Student Filmfestival SEHSÜCHTE",
+      "url": "http://2009.sehsuechte.de/begruendung.php"
+    },
+    {
+      "year": "2006",
+      "title": "GERMAN CAMERA AWARD - WOLFSTRAUM",
+      "url": "http://www.deutscher-kamerapreis.de/preistrager/2006/preistrager/kamera/armin-dierolf-forderpreis-kurzfilm-der-filmstiftung-nrw-gmbh/?jahre=566/l"
+    }
+  ]
+}

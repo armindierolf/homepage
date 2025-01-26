@@ -1,0 +1,79 @@
+/* Base styles */
+body {
+  margin: 0 0 25px;
+  padding: 0;
+  background-color: #bbb;
+  font-family: "Lucida Grande", "Bitstream Vera Sans", Verdana;
+  font-size: 13px;
+  color: #333;
+  word-wrap: break-word;
+}
+
+/* Typography */
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+a {
+  color: #796912;
+}
+
+a:hover {
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Layout */
+#page {
+  background-color: #fff;
+  position: relative;
+  width: 883px;
+  margin: 0 auto;
+  border-right: 2px solid #7a7878;
+  display: block;
+}
+
+#left {
+  background-color: #fff;
+  float: left;
+  position: relative;
+  width: 550px;
+  padding: 25px;
+  border-right: 2px solid #7a7878;
+  border-left: 2px solid #7a7878;
+}
+
+#right {
+  background-color: #fff;
+  float: right;
+  position: relative;
+  width: 250px;
+  padding-top: 25px;
+  padding-left: 25px;
+}
+
+.clear {
+  clear: both;
+}
+
+/* Tables */
+.dsR1 {
+  width: 550px;
+}
+
+table caption {
+  color: #888;
+  font-size: 16px;
+  text-align: left;
+  padding-bottom: 12px;
+}
+
+/* Footer */
+#footer {
+  width: 877px;
+  clear: both;
+  margin-right: auto;
+  margin-left: auto;
+}

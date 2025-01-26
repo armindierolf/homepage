@@ -1,0 +1,222 @@
+{
+  "films": [
+    {
+      "year": "2024",
+      "title": "AM ENDE DES TAGES (AT)",
+      "director": "Christian Bach",
+      "type": "feature fiction",
+      "producer": "Olga Film / ZDF"
+    },
+    {
+      "year": "2023",
+      "title": "LEVI STRAUSS und der Stoff der Träume",
+      "director": "Neele Vollmar",
+      "type": "TV Mini-Series 4x45min",
+      "producer": "Lieblingsfilm/ Viola Film/ ARD Degeto"
+    },
+    {
+      "year": "2022",
+      "title": "IRGENDWANN WERDEN WIR UNS ALLES ERZÄHLEN",
+      "director": "Emily Atef",
+      "type": "feature fiction",
+      "producer": "ROW Pictures"
+    },
+    {
+      "year": "2021",
+      "title": "37 SEKUNDEN",
+      "director": "Bettina Oberli",
+      "type": "TV Mini Series 6x45min",
+      "producer": "Odeon Fiction/ ARD Degeto"
+    },
+    {
+      "year": "2020",
+      "title": "DRII WINTER / A PIECE OF SKY",
+      "director": "Michael Koch",
+      "type": "feature fiction",
+      "producer": "hugofilm features, Pandora Film"
+    },
+    {
+      "year": "2020",
+      "title": "HEUTE STIRBT HIER KAINER",
+      "director": "Maria-Anna Westholzer",
+      "type": "feature fiction",
+      "producer": "Hessischer Rundfunk"
+    },
+    {
+      "year": "2019",
+      "title": "EINE FREMDE TOCHTER",
+      "director": "Stefan Krohmer",
+      "type": "feature fiction",
+      "producer": "Aspekt Telefilm Hamburg/ NDR"
+    },
+    {
+      "year": "2018",
+      "title": "TATORT - Falscher Hase",
+      "director": "Emily Atef",
+      "type": "feature fiction",
+      "producer": "Hessischer Rundfunk"
+    },
+    {
+      "year": "2018",
+      "title": "IM NIEMANDSLAND",
+      "director": "Florian Aigner",
+      "type": "feature fiction",
+      "producer": "buntfilm/ Flare Film"
+    },
+    {
+      "year": "2018",
+      "title": "DER KRIMINALIST Ep. 95-97",
+      "director": "Züli Aladag",
+      "type": "TV-Series",
+      "producer": "H&V Entertainment/ ZDF"
+    },
+    {
+      "year": "2017",
+      "title": "BURG SCHRECKENSTEIN 2",
+      "director": "Ralf Huettner",
+      "type": "feature fiction",
+      "producer": "Roxy Film/ Violet Pictures"
+    },
+    {
+      "year": "2016",
+      "title": "SARAH PLAYS A WEREWOLF",
+      "director": "Katharina Wyss",
+      "type": "feature fiction",
+      "producer": "Intermezzo Films/ Mnemosyn Films",
+      "url": "http://www.sarahjoueunloupgarou.ch/"
+    },
+    {
+      "year": "2015",
+      "title": "BURG SCHRECKENSTEIN",
+      "director": "Ralf Huettner",
+      "type": "feature fiction",
+      "producer": "Roxy Film/ Violet Pictures",
+      "url": "http://www.burgschreckenstein.de/start/"
+    },
+    {
+      "year": "2014",
+      "title": "KOMMISSARIN LUCAS 22 & 23",
+      "director": "Ralf Huettner",
+      "type": "feature fiction series",
+      "producer": "Olga Film/ ZDF"
+    },
+    {
+      "year": "2014",
+      "title": "SIVAS",
+      "director": "Kaan Müjdeci",
+      "type": "feature fiction",
+      "producer": "Kaan Film",
+      "url": "http://variety.com/2014/film/reviews/venice-film-review-sivas-1201296877/"
+    },
+    {
+      "year": "2013",
+      "title": "NACHSPIELZEIT",
+      "director": "Andreas Pieper",
+      "type": "feature fiction",
+      "producer": "Lichtblick Media, arte/ SWR",
+      "url": "http://www.faz.net/aktuell/feuilleton/medien/arte-zeigt-den-fernsehfilm-nachspielzeit-13760521.html"
+    },
+    {
+      "year": "2013",
+      "title": "WHITE SHADOW",
+      "director": "Noaz Deshe",
+      "type": "feature fiction",
+      "producer": "Shadoworks/ French Exit/ Asmara Films",
+      "url": "http://whiteshadow.info/"
+    },
+    {
+      "year": "2012",
+      "title": "PETTING ZOO",
+      "director": "Micah Magee",
+      "type": "feature fiction",
+      "producer": "The Match Factory/ Makrorama/ dffb/ Haos Film",
+      "url": "http://www.pettingzoomovie.com"
+    },
+    {
+      "year": "2012",
+      "title": "LIGHTER THAN ORANGE",
+      "director": "Matthias Leupold",
+      "type": "feature documentary",
+      "producer": "Asienbrücke/ btk",
+      "url": "http://lighterthanorange.com/"
+    },
+    {
+      "year": "2012",
+      "title": "ALLEINE TANZEN",
+      "director": "Biene Pilavci",
+      "type": "feature documentary",
+      "producer": "Telekult/ dffb",
+      "url": "http://alleinetanzen.de/index.php/der-film/synopsis"
+    },
+    {
+      "year": "2011",
+      "title": "DRESDEN 1-2-3",
+      "director": "Michael Klier",
+      "type": "3x 10 min fiction",
+      "producer": "arte/ Michael Klier Film"
+    },
+    {
+      "year": "2011",
+      "title": "De la mutabilité de toute chose et de la possibilité d´en changer certaines",
+      "director": "Anna Marziano",
+      "type": "16 min documentary, additional cinematography",
+      "producer": "Le Fresnoy",
+      "url": "http://vimeo.com/30810510"
+    },
+    {
+      "year": "2009",
+      "title": "HEADLOCK",
+      "director": "Johan Carlsen",
+      "type": "feature fiction",
+      "producer": "dffb/ ZDF-Das kleine Fernsehspiel/ Schiwagofilm/ Arianefilm/ Makrorama",
+      "url": "http://www.makrorama.de/johancarlsen/headlock/"
+    },
+    {
+      "year": "2008",
+      "title": "24h BERLIN",
+      "director": "Eva Stotz",
+      "type": "episode/documentary",
+      "producer": "zero one film"
+    },
+    {
+      "year": "2008",
+      "title": "MARATHON - Eine Kilmaschutzinitiative von Michael Ballhaus",
+      "director": "Maria Rimpfl",
+      "type": "45 sec commercial",
+      "producer": "dffb",
+      "notes": "2nd DP: N. Welter"
+    },
+    {
+      "year": "2007",
+      "title": "SOLLBRUCHSTELLE",
+      "director": "Eva Stotz",
+      "type": "mid-length documentary",
+      "producer": "dffb",
+      "notes": "additional cinematography, 1st DP: A. Petrik",
+      "url": "http://www.evastotz.com/index.php?film=sollbruchstelle/"
+    },
+    {
+      "year": "2007",
+      "title": "ZAI GOU NIAN - Im Jahr des Hundes",
+      "director": "Ursula Scheid",
+      "type": "feature documentary",
+      "producer": "BR/WDR Wasabifilm"
+    },
+    {
+      "year": "2005",
+      "title": "Wolfstraum",
+      "director": "Maria Rimpfl",
+      "type": "15 min fiction",
+      "producer": "dffb",
+      "url": "http://www.wolfstraum-derfilm.de"
+    },
+    {
+      "year": "2005",
+      "title": "WEIßE STILLE",
+      "director": "Philip Haucke",
+      "type": "feature fiction",
+      "producer": "HFF Muc, NeosFilm",
+      "notes": "2nd unit"
+    }
+  ]
+}
