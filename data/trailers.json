@@ -21,16 +21,6 @@
       "format": "2K 2.39:1"
     },
     {
-      "year": "2021",
-      "title": "37 SEKUNDEN",
-      "vimeoId": "1050134952",
-      "thumbnail": "37_Sekunden.jpg",
-      "type": "TV Mini Series ARD Degeto",
-      "director": "Bettina Oberli",
-      "producer": "Odeon Fiction",
-      "format": "2K 2:1"
-    },
-    {
       "year": "2020",
       "title": "DRII WINTER / A PIECE OF SKY",
       "vimeoId": "685125713",
@@ -39,6 +29,16 @@
       "director": "Michael Koch",
       "producer": "Hugofilm / Pandora Film",
       "format": "2K 1.37:1"
+    },
+    {
+      "year": "2021",
+      "title": "37 SEKUNDEN",
+      "vimeoId": "1050134952",
+      "thumbnail": "37_Sekunden.jpg",
+      "type": "TV Mini Series ARD Degeto",
+      "director": "Bettina Oberli",
+      "producer": "Odeon Fiction",
+      "format": "2K 2:1"
     },
     {
       "year": "2017",
