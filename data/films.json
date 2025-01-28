@@ -4,7 +4,7 @@
       "year": "2024",
       "title": "AM ENDE DES TAGES (AT)",
       "director": "Christian Bach",
-      "type": "feature fiction",
+      "type": "feature fiction TV",
       "producer": "Olga Film / ZDF"
     },
     {
@@ -18,7 +18,7 @@
       "year": "2022",
       "title": "IRGENDWANN WERDEN WIR UNS ALLES ERZÄHLEN",
       "director": "Emily Atef",
-      "type": "feature fiction",
+      "type": "feature fiction cinema",
       "producer": "ROW Pictures"
     },
     {
@@ -32,35 +32,35 @@
       "year": "2020",
       "title": "DRII WINTER / A PIECE OF SKY",
       "director": "Michael Koch",
-      "type": "feature fiction",
+      "type": "feature fiction cinema",
       "producer": "hugofilm features, Pandora Film"
     },
     {
       "year": "2020",
       "title": "HEUTE STIRBT HIER KAINER",
       "director": "Maria-Anna Westholzer",
-      "type": "feature fiction",
+      "type": "feature fiction TV",
       "producer": "Hessischer Rundfunk"
     },
     {
       "year": "2019",
       "title": "EINE FREMDE TOCHTER",
       "director": "Stefan Krohmer",
-      "type": "feature fiction",
+      "type": "feature fiction TV",
       "producer": "Aspekt Telefilm Hamburg/ NDR"
     },
     {
       "year": "2018",
       "title": "TATORT - Falscher Hase",
       "director": "Emily Atef",
-      "type": "feature fiction",
+      "type": "feature fiction TV",
       "producer": "Hessischer Rundfunk"
     },
     {
       "year": "2018",
       "title": "IM NIEMANDSLAND",
       "director": "Florian Aigner",
-      "type": "feature fiction",
+      "type": "feature fiction cinema",
       "producer": "buntfilm/ Flare Film"
     },
     {
@@ -74,14 +74,14 @@
       "year": "2017",
       "title": "BURG SCHRECKENSTEIN 2",
       "director": "Ralf Huettner",
-      "type": "feature fiction",
+      "type": "feature fiction cinema",
       "producer": "Roxy Film/ Violet Pictures"
     },
     {
       "year": "2016",
       "title": "SARAH PLAYS A WEREWOLF",
       "director": "Katharina Wyss",
-      "type": "feature fiction",
+      "type": "feature fiction cinema",
       "producer": "Intermezzo Films/ Mnemosyn Films",
       "url": "http://www.sarahjoueunloupgarou.ch/"
     },
@@ -89,7 +89,7 @@
       "year": "2015",
       "title": "BURG SCHRECKENSTEIN",
       "director": "Ralf Huettner",
-      "type": "feature fiction",
+      "type": "feature fiction cinema",
       "producer": "Roxy Film/ Violet Pictures",
       "url": "http://www.burgschreckenstein.de/start/"
     },
@@ -97,14 +97,14 @@
       "year": "2014",
       "title": "KOMMISSARIN LUCAS 22 & 23",
       "director": "Ralf Huettner",
-      "type": "feature fiction series",
+      "type": "TV feature fiction series",
       "producer": "Olga Film/ ZDF"
     },
     {
       "year": "2014",
       "title": "SIVAS",
       "director": "Kaan Müjdeci",
-      "type": "feature fiction",
+      "type": "feature fiction cinema",
       "producer": "Kaan Film",
       "url": "http://variety.com/2014/film/reviews/venice-film-review-sivas-1201296877/"
     },
@@ -112,7 +112,7 @@
       "year": "2013",
       "title": "NACHSPIELZEIT",
       "director": "Andreas Pieper",
-      "type": "feature fiction",
+      "type": "TV feature fiction",
       "producer": "Lichtblick Media, arte/ SWR",
       "url": "http://www.faz.net/aktuell/feuilleton/medien/arte-zeigt-den-fernsehfilm-nachspielzeit-13760521.html"
     },
@@ -120,7 +120,7 @@
       "year": "2013",
       "title": "WHITE SHADOW",
       "director": "Noaz Deshe",
-      "type": "feature fiction",
+      "type": "feature fiction cinema",
       "producer": "Shadoworks/ French Exit/ Asmara Films",
       "url": "http://whiteshadow.info/"
     },
@@ -128,7 +128,7 @@
       "year": "2012",
       "title": "PETTING ZOO",
       "director": "Micah Magee",
-      "type": "feature fiction",
+      "type": "feature fiction cinema",
       "producer": "The Match Factory/ Makrorama/ dffb/ Haos Film",
       "url": "http://www.pettingzoomovie.com"
     },
@@ -167,7 +167,7 @@
       "year": "2009",
       "title": "HEADLOCK",
       "director": "Johan Carlsen",
-      "type": "feature fiction",
+      "type": "feature fiction cinema",
       "producer": "dffb/ ZDF-Das kleine Fernsehspiel/ Schiwagofilm/ Arianefilm/ Makrorama",
       "url": "http://www.makrorama.de/johancarlsen/headlock/"
     },
