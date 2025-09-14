@@ -1,5 +1,19 @@
 {
   "films": [
+       {
+      "year": "2025",
+      "title": "EROSION (AT)",
+      "director": "Michael Koch",
+      "type": "feature fiction cinema",
+      "producer": "hugofilm features / Pandora Film Produktion"
+    },
+      {
+      "year": "2025",
+      "title": "Erzgebirgskrimi Folge 14 - Mordholz (AT)",
+      "director": "Lena Knauss",
+      "type": "feature fiction TV",
+      "producer": "NFP Filmproduktion / ZDF"
+    },
     {
       "year": "2024",
       "title": "AM ENDE DES TAGES (AT)",
