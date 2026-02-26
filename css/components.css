@@ -155,6 +155,11 @@
   font-size: 12px;
 }
 
+.news-item a:hover {
+  background: none;
+  color: #796912;
+}
+
 .news-item::before {
   content: '★';
   color: #796912;

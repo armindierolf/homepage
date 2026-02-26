@@ -247,11 +247,10 @@
       fetchJSON("data/biography.json", "biography", createBiographyEntry);
 
       function createNewsEntry(news) {
-        return `
-    <div class="news-item">
-      <strong>${news.text}</strong>
-    </div>
-  `;
+        const text = news.url
+          ? `<a href="${news.url}" target="_blank"><strong>${news.text}</strong></a>`
+          : `<strong>${news.text}</strong>`;
+        return `<div class="news-item">${text}</div>`;
       }
 
       fetchJSON("data/news.json", "news", createNewsEntry);
