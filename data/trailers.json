@@ -10,16 +10,6 @@
       "producer": "Olgafilm/ ZDF",
       "format": "2K 2:1"
     },
-     {
-      "year": "2025",
-      "title": "ERZGEBIRGSKRIMI - MORDHOLZ",
-      "vimeoId": "1171865867",
-      "thumbnail": "ERZ14_Mordholz.jpg",
-      "type": "TV feature fiction S02 F04",
-      "director": "Lena Knauss",
-      "producer": "NFP / RJ Film / ZDF",
-      "format": "2K 1.78:1"
-    },
     {
       "year": "2024",
       "title": "LEVI STRAUSS und der Stoff der Träume",
@@ -29,6 +19,16 @@
       "director": "Neele Vollmar",
       "producer": "Lieblingsfilm/ Viola Film",
       "format": "2K 2:1"
+    },
+    {
+      "year": "2025",
+      "title": "ERZGEBIRGSKRIMI - MORDHOLZ",
+      "vimeoId": "1171865867",
+      "thumbnail": "ERZ14_Mordholz.jpg",
+      "type": "TV feature fiction S02 F04",
+      "director": "Lena Knauss",
+      "producer": "NFP / RJ Film / ZDF",
+      "format": "2K 1.78:1"
     },
     {
       "year": "2023",
