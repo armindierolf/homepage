@@ -20,6 +20,16 @@
       "producer": "Hugofilm / Pandora Film",
       "format": "2K 1.37:1"
     },
+        {
+      "year": "2025",
+      "title": "IN FREMDEN HÄNDEN",
+      "vimeoId": "1171859791",
+      "thumbnail": "ZDF_In Fremden Händen.jpg",
+      "type": "TV feature fiction",
+      "director": "Christian Bach",
+      "producer": "Olgafilm/ ZDF",
+      "format": "2K 2:1"
+    },
     {
       "year": "2024",
       "title": "LEVI STRAUSS und der Stoff der Träume",
@@ -28,16 +38,6 @@
       "type": "TV Mini Series ARD Degeto",
       "director": "Neele Vollmar",
       "producer": "Lieblingsfilm/ Viola Film",
-      "format": "2K 2:1"
-    },
-    {
-      "year": "2025",
-      "title": "IN FREMDEN HÄNDEN",
-      "vimeoId": "1171859791",
-      "thumbnail": "ZDF_In Fremden Händen.jpg",
-      "type": "TV feature fiction",
-      "director": "Christian Bach",
-      "producer": "Olgafilm/ ZDF",
       "format": "2K 2:1"
     },
     {
